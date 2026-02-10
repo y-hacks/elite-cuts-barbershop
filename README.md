@@ -99,9 +99,9 @@ Engaging discussion categories for the barbershop:
 
 ## 🌐 Live Demo
 
-**🚀 [View Live Demo](https://your-username.github.io/elite-cuts-barbershop/)**
+**🚀 [View Live Demo](https://y-hacks.github.io/elite-cuts-barbershop/)**
 
-*(Replace with your actual GitHub Pages URL after deployment)*
+
 
 ---
 
@@ -141,7 +141,7 @@ Engaging discussion categories for the barbershop:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/elite-cuts-barbershop.git
+git clone https://github.com/y-hacks/elite-cuts-barbershop.git
 
 # 2. Navigate to project folder
 cd elite-cuts-barbershop
@@ -396,7 +396,7 @@ copies or substantial portions of the Software.
 
 ### Social Media
 
-- [Facebook](https://facebook.com/elitecuts)
+- [Facebook](https://facebook.com/elitecuts) 
 - [Instagram](https://instagram.com/elitecuts)
 - [Twitter](https://twitter.com/elitecuts)
 - [TikTok](https://tiktok.com/@elitecuts)
@@ -408,5 +408,5 @@ copies or substantial portions of the Software.
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/elite-cuts-barbershop/stargazers">⭐ Star this repo</a> if you found it helpful!
+  <a href="https://github.com/y-hacks/elite-cuts-barbershop/stargazer>⭐ Star this repo</a> if you found it helpful!
 </p>

@@ -330,15 +330,7 @@ We welcome contributions! Here's how:
 
 ---
 
-## 📋 Roadmap
 
-- [ ] **Admin Dashboard** - Manage bookings and content
-- [ ] **Payment Integration** - M-Pesa and card payments
-- [ ] **SMS Notifications** - Booking confirmations
-- [ ] **Multi-language** - Swahili and English support
-- [ ] **Loyalty Program** - Points and rewards system
-- [ ] **Gallery** - Before/after photo showcase
-- [ ] **Staff Profiles** - Individual barber pages
 
 ---
 
@@ -394,12 +386,7 @@ copies or substantial portions of the Software.
 - 📧 **Email**: info@elitecuts.co.ke
 - 🌐 **Website**: [elitecuts.co.ke](https://elitecuts.co.ke)
 
-### Social Media
 
-- [Facebook](https://facebook.com/elitecuts) 
-- [Instagram](https://instagram.com/elitecuts)
-- [Twitter](https://twitter.com/elitecuts)
-- [TikTok](https://tiktok.com/@elitecuts)
 
 ---
 
